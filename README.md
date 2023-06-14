@@ -1,21 +1,3 @@
-# cod3b4c6c8306c50ac178428d
-
-Quick start:
-
-```
-$ npm install
-$ npm start
-````
-
-Head over to https://vitejs.dev/ to learn more about using vite
-## About Scrimba
-
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Frontend Developer Career Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
-
-- [Our courses](https://scrimba.com/allcourses)
-- [The Frontend Career Path](https://scrimba.com/learn/frontend)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
-
-Happy Coding!
+Hey all,here I used html,CSS media queries to style and make it responsive,and at last our favourite javascript to manage the cart.I used Firebase to store the data and Netlify to deploy it.
+I got the gif for my site directly from GIFER.Here is the link https://gifer.com/en/7HR8
+To visit my deployed site,visit https://cartcompanion.netlify.app/
